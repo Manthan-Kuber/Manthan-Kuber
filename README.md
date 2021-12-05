@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manthan-Kuber
-- 👀 I’m interested in Native App Development and Web Development 
+- 👀 I’m interested in Web Development and App Development
 - 🌱 I’m currently learning MERN Stack
 
 <!---
