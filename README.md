@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manthan Kuber</h1>
 <h3 align="center">A passionate fullstack web developer from India</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manthan-kuber" alt="manthan-kuber" /></a> </p>
-
 - 🔭 I’m currently working on **web development projects as and when I can!**
 
 - 🌱 I’m currently learning **Typescript**
@@ -17,5 +15,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manthan-kuber&show_icons=true&locale=en&layout=compact" alt="manthan-kuber" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manthan-kuber&show_icons=true&locale=en" alt="manthan-kuber" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manthan-kuber" alt="manthan-kuber" /></a> </p>
 
 
