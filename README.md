@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manthan Kuber</h1>
-<h3 align="center">A Passionate Fullstack Web Developer From India</h3>
+<h3 align="center">A Self-Taught Passionate Fullstack Web Developer From India</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manthan-kuber&label=Profile%20views&color=0e75b6&style=for-the-badge&color=fe428e" alt="manthan-kuber" /> </p>
 
 - 🔭 I’m currently working on **web development projects as and when I can!**
