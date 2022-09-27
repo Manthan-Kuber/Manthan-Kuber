@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **React and MERN stack related technologies**
+- 💬 Ask me about **React , Next , Redux Toolkit and MERN stack related technologies**
 
 - 📫 How to reach me **manthankuber873@gmail.com**
 
