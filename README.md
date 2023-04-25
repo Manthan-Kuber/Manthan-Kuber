@@ -43,6 +43,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manthan-kuber&column=-1&margin-w=10&margin-h=10&theme=radical" alt="manthan-kuber" /></a> </p>
 
+![](https://leetcard.jacoblin.cool/monty_2969?ext=heatmap)
+
 [![@monty's Holopin board](https://holopin.io/api/user/board?user=monty)](https://holopin.io/@monty)
+
+
 
 
