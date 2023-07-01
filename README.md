@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Manthan Kuber</h1>
-<h3 align="center">A Self-Taught Passionate Fullstack Web Developer From India</h3>
+<h3 align="center">A Self-Taught Passionate FullStack Web Developer From India</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manthan-kuber&label=Profile%20views&color=0e75b6&style=for-the-badge&color=fe428e" alt="manthan-kuber" /> </p>
 
-- 🔭 I’m currently working on **web development projects as and when I can!**
+- 🔭 I’m currently working on **Web development projects as and when I can!**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning more about **DSA and problem solving**
+  
+- 👁️ I'm looking to contribute to **Open-source software**
 
 - 💬 Ask me about **React , Next , Redux Toolkit and MERN stack related technologies**
 
@@ -28,6 +30,8 @@
 [![My Skills](https://skillicons.dev/icons?i=express)](https://expressjs.com)
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![My Skills](https://skillicons.dev/icons?i=supabase)](https://supabase.com/)
+[![My Skills](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io/)
 
 <h3 align="left">Other Tools and Technologies</h3>
 
@@ -36,6 +40,8 @@
 [![My Skills](https://skillicons.dev/icons?i=powershell)](https://docs.microsoft.com/en-us/powershell/)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![My Skills](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+[![My Skills](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manthan-kuber&show_icons=true&locale=en&layout=compact&theme=radical" alt="manthan-kuber" /></p>
 
