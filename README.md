@@ -30,6 +30,7 @@
 [![My Skills](https://skillicons.dev/icons?i=express)](https://expressjs.com)
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![My Skills](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 [![My Skills](https://skillicons.dev/icons?i=supabase)](https://supabase.com/)
 [![My Skills](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io/)
 
