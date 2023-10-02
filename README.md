@@ -45,12 +45,13 @@
 [![My Skills](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manthan-kuber&show_icons=true&locale=en&layout=compact&theme=radical" alt="manthan-kuber" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manthan-kuber&show_icons=true&locale=en&count_private=true&theme=radical" alt="manthan-kuber" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manthan-kuber&column=-1&margin-w=10&margin-h=10&theme=radical" alt="manthan-kuber" /></a> </p>
 
 ![](https://leetcard.jacoblin.cool/monty_2969?ext=heatmap)
+
+![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=manthankuber873)
 
 [![@monty's Holopin board](https://holopin.io/api/user/board?user=monty)](https://holopin.io/@monty)
 
