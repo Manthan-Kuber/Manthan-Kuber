@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Web development projects as and when I can!**
 
-- 🌱 I’m currently learning more about **DSA and problem solving**
+- 🌱 I’m currently learning more about **Computer Science & DSA and problem solving**
   
 - 👁️ I'm looking to contribute to **Open-source software**
 
